@@ -1,86 +1,58 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Ayush Jain's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Ayush Jain
+Software Engineer (Systems), CS Graduate.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="ayujain@cs.stonybrook.edu">ayujain@cs.stonybrook.edu</a>
+| <a href="">My Webpage</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Graduate Student at Stony Brook University. Working on developing an **RPC framework** to make distributed systems faster.
 
-### Specialized in
+### Interests 
+Distributed Systems, Computer Networks, Intel's DPDK, Statistics and Stochastic Processes 
+## Experience
+`Aug 2020 - Jun 2022` __UBS__ IT Software Engineer
+  - Worked in Market Risk IT team in UBS. Migrated legacy software to Azure Cloud.
+  - Used SpringBoot to design and develop several microservice. 
+  - Leveraged Apache Spark to develop programs to analyse Market Data. 
+  - Engineered a robust security module based on the OAuth2 protocol with Azure Active Directory as the Identity Platform, enhancing the system’s security and user authentication.
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`May 2019 - Jul 2019` __Mentor Graphics(Siemens)__ Intern
+  -  Contributed to testing two user-land packages (Bluez and OpenSSH) of an embedded Linux distribu- tion, resulting in a 50% increase in code coverage.
 
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`Aug 2016 - June 2020`
+__Indian Institute of Technology Tirupati__\
+Bachelor of Technology in Computer Science
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`Aug 2022 - present`
+__Stony Brook University , NY__\
+Master of Science in Computer Science
 
-- Sizar
+## Projects
 
-`1667 - death`
-__Trinity College, Cambridge__
+`Mar 2023 - present` __sRPC: An RPC Framework__
 
-- Fellow
+`Sep 2022 - Dec 2022` __Distributed Key Value Store__
 
+## Skills
+ __C/C++, Java, Python, Scala, SQL__ 
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
+ __DPDK, SpringBoot, Apache Spark, Postgre, MongoDB, MySQL__ 
 
 
 
-## Publications
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
 
 
 
